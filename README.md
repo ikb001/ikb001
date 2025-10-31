@@ -1,8 +1,14 @@
 # Hi, I’m Isaac Buabeng 👋  
-**Aspiring Environmental Data Scientist | Graduate Student in Plant Biology**  
-I’m passionate about applying *data science and statistical modelling* to investigate **plant functional traits**, and **ecosystem biodiversity**.
+**Ecological Data Scientist in training | PhD Student in Plant Biology | Integrating Statistics, Machine Learning into Functional Trait Ecology**  
+
+I’m an ecological data scientist and plant biologist working at the intersection of ecology, statistics, and machine learning to understand how functional and phylogenetic diversity shape community assembly and ecosystem processes. My research integrates trait data, phylogenetic information, and environmental gradients to uncover the mechanisms driving plant biodiversity patterns and their implications for global change.
 
 ---
+## 🔬 What I Work On
+- Building statistical and computational models (GLMs, mixed-effects models, Bayesian frameworks) to study plant functional and phylogenetic diversity
+- Developing reproducible trait-based and community ecology workflows in R and Python
+- Quantifying trait–environment relationships and their role in structuring plant communities
+- Exploring how functional diversity metrics relate to ecological resilience and biogeography
 
 ## 🔧 Core Skills & Tools  
 - **Languages**: R (tidyverse, lme4, caret), Python (pandas, scikit-learn), SQL  
@@ -26,8 +32,8 @@ I’m passionate about applying *data science and statistical modelling* to inve
 ---
 
 ## 🌱 What I’m Looking For  
-I’m seeking **internship or full-time opportunities** in data science / ecological modelling / agricultural analytics — keen to apply my statistical and coding skills to real-world biodiversity or crop yield challenges.  
-Open to remote or onsite roles, and excited to collaborate on open-source research in ecological data science.
+I’m seeking **internship or full-time opportunities** in data science / ecological modelling / agricultural analytics — keen to apply my statistical and coding skills to real-world biodiversity.  
+Open to remote or on-site roles, and excited to collaborate on open-source research in ecological data science.
 
 ---
 
