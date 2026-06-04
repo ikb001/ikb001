@@ -1,5 +1,5 @@
 # Hi, I’m Isaac Buabeng 👋  
-** PhD Student in Plant Biology | Integrating Machine Learning into Functional Trait Ecology**  
+**PhD Student in Plant Biology | Integrating Machine Learning into Functional Trait Ecology**  
 
 I’m a plant biologist working at the intersection of ecology, statistics, and machine learning to understand how functional and phylogenetic diversity shape community assembly and ecosystem processes. My research integrates trait data, phylogenetic information, and environmental gradients to uncover the mechanisms driving plant biodiversity patterns and their implications for global change.
 
